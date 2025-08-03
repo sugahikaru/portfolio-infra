@@ -28,7 +28,7 @@ Terraform と CloudFormation の2つの手法を用いて、同等の構成を�
 
 ## 📌 各ディレクトリについて
 
-### `terraform/`[Terraform 構成はこちら](./chapter-33/)
+### `terraform/`[Terraform 構成はこちら](./terraform/)
 
 - モジュール構成を採用し、環境ごとの分割がしやすい構成
 - S3 バックエンドや WAF の構成も含む
