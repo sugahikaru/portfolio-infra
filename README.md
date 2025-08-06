@@ -7,8 +7,8 @@ Terraform と CloudFormation の2つの手法を用いて、同等の構成を�
 
 ## 📷 アーキテクチャ図
 
-
-![アーキテクチャ](AWSアーキテクチャ.png)
+![アーキテクチャ](アーキテクチャ.png)
+※CloudFormationとTerraformのいずれを使っても、VPC内の構成は同じになります。
 
 ---
 
